@@ -1,0 +1,7 @@
+.nav-profile-img {
+    width: 30px;  /* Adjust size as needed */
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 8px;  /* Space between the image and text */
+}
